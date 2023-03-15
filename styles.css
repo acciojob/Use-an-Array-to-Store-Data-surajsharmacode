@@ -19,6 +19,10 @@ let  yourArray = [
       c: "c",
       d: "d"
 bool: false;
+    }, {
+      c: "c",
+      d: "d"
+bool: false;
     }
   ]
 ];
